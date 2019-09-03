@@ -85,7 +85,7 @@ pagerView.interitemSpacing = 10
 | ![1](https://cloud.githubusercontent.com/assets/5186464/22686429/1983b97e-ed5f-11e6-9a32-44c1830df7ac.gif) |
 
 ```swift
-pagerView.transformer = FSPagerViewTransformer(type: .crossfading)
+pagerView.transformer = FSPagerViewTransformer(type: .crossFading)
 ```
 ---
 
